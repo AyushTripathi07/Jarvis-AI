@@ -39,7 +39,7 @@ This React application is a user interface for interacting with Jarvis AI, a cha
     - Add the following line to the `.env` file:
 
         ```
-        REACT_APP_OPENAI_API_KEY=your-api-key-goes-here
+        OPENAI_API_KEY=your-api-key-goes-here
         ```
 
 5. **Start the development server:**
