@@ -11,7 +11,7 @@ This React application is a user interface for interacting with Jarvis AI, a cha
 - Customizable chat experience with options for personalization.
 - Easy integration into existing web applications.
 
-[image](https://imgur.com/a/WXEd6jk)
+![image](https://imgur.com/a/WXEd6jk)
 
 
 ## Installation
