@@ -22,7 +22,7 @@ This React application is a user interface for interacting with Jarvis AI, a cha
 2. **Navigate to the project directory:**
 
     ```
-    cd jarvis-ai-react
+    cd Jarvis-AI
     ```
 
 3. **Install dependencies:**
