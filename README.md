@@ -62,17 +62,12 @@ This React application is a user interface for interacting with Jarvis AI, a cha
 - **OpenAI API not Free:** OpenAI has stopped providing free trial credits for its API. As a result, the application may not function if you haven't purchased prepayment credits. To resolve this issue:
     - Go to [platform.openai.com](https://platform.openai.com).
 
-      ```
-       error: {
-    message: 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.',
-    type: 'insufficient_quota',
-    param: null,
-    code: 'insufficient_quota'
-  },
-  code: 'insufficient_quota',
-  param: null,
-  type: 'insufficient_quota'
-
-```
+       ```
+    {
+        message: 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.',
+        type: 'insufficient_quota',
+        code: 'insufficient_quota',
+    }
+    ```
 
 
